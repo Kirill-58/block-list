@@ -4,8 +4,8 @@
  * Block List
  * OpenAPI spec version: 1.0.0
  */
-import { createInstance } from "./api-instance";
-import type { BodyType } from "./api-instance";
+import { createInstance } from "./apiInstance";
+import type { BodyType } from "./apiInstance";
 export type BlockListControllerGetListParams = {
   q?: string;
 };
