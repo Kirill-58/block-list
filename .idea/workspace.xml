@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f475033-74a4-4563-b347-64796b032347" name="Changes" comment="added front">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/added_front.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/added_front/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6f475033-74a4-4563-b347-64796b032347" name="Changes" comment="aaaaa">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +35,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -151,6 +148,7 @@
       <workItem from="1714658774033" duration="184000" />
       <workItem from="1714658961073" duration="471000" />
       <workItem from="1714659438128" duration="261000" />
+      <workItem from="1714659701647" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -216,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714658037074</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added front">
+      <option name="closed" value="true" />
+      <created>1714659788621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714659788621</updated>
+    </task>
+    <task id="LOCAL-00010" summary="aaaaa">
+      <option name="closed" value="true" />
+      <created>1714660515181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714660515181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +302,7 @@
     <MESSAGE value="next init" />
     <MESSAGE value="Initial commit from Create Next App" />
     <MESSAGE value="added front" />
-    <option name="LAST_COMMIT_MESSAGE" value="added front" />
+    <MESSAGE value="aaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaa" />
   </component>
 </project>
