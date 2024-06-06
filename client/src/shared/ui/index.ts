@@ -6,3 +6,4 @@ export { Spin } from "./Spin";
 export { PageSpin } from "./PageSpin";
 export { Logo } from "./Logo";
 export { Header } from "./Header";
+export { FormPageLayout } from "./layouts";
