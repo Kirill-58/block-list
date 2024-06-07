@@ -10,7 +10,7 @@ export const Header: React.FC<ClassNameType & { right?: ReactNode }> = ({
   return (
     <header
       className={clsx(
-        "px-4 py-5 border-b border-b-slate-300 flex justify-between items-center",
+        "px-4 py-5 border-b border-b-slate-300 flex justify-between items-center bg-white",
         className,
       )}
     >

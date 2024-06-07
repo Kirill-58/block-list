@@ -22,7 +22,7 @@ export const Button: React.FC<ButtonProps> = ({
           secondary:
             "text-white bg-rose-500 hover:bg-rose-600 disabled:opacity-50 shadow shadow-rose-500/30 ",
           outline:
-            "border border-slate-300 hover:bg-slate-300 disabled:opacity-50",
+            "border border-slate-300 hover:border-slate-300 disabled:opacity-50",
         }[variant],
       )}
     />
